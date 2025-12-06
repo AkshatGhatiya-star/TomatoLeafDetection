@@ -28,3 +28,8 @@ TomatoLeafDetection/
     frontend/
     ...
 
+
+
+## Trained Model
+Download: https://drive.google.com/file/d/1u5T7Rl5sbA4yypUOTR_iGT19U6Viljxx/view?usp=sharing
+
