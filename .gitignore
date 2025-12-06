@@ -1,0 +1,8 @@
+dataset/
+venv/
+__pycache__/
+*.pyc
+
+# Ignore trained models
+backend/model/
+*.h5
